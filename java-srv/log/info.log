@@ -1,0 +1,137 @@
+[INFO] Version HHH000412: Hibernate Core {5.3.7.Final} 
+[INFO] Environment HHH000206: hibernate.properties not found 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[INFO] Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final} 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[INFO] pooling HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://db/animal] 
+[INFO] pooling HHH10001001: Connection properties: {password=pass, user=maria} 
+[INFO] pooling HHH10001003: Autocommit mode: false 
+[INFO] DriverManagerConnectionProviderImpl HHH000115: Hibernate connection pool size: 3 (min=1) 
+[WARN] JdbcEnvironmentInitiator HHH000342: Could not obtain connection to query metadata : Cannot invoke "org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.poll()" because "this.pool" is null 
+[INFO] Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect 
+[INFO] LobCreatorBuilderImpl HHH000422: Disabling contextual LOB creation as connection was null 
+[WARN] SqlExceptionHelper SQL Error: 1044, SQLState: 42000 
+[ERROR] SqlExceptionHelper Access denied for user 'maria'@'%' to database 'animal' 
+[INFO] Version HHH000412: Hibernate Core {5.3.7.Final} 
+[INFO] Environment HHH000206: hibernate.properties not found 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[INFO] Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final} 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[INFO] pooling HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://db/animal?user=maria] 
+[INFO] pooling HHH10001001: Connection properties: {password=pass, user=maria} 
+[INFO] pooling HHH10001003: Autocommit mode: false 
+[INFO] DriverManagerConnectionProviderImpl HHH000115: Hibernate connection pool size: 3 (min=1) 
+[WARN] JdbcEnvironmentInitiator HHH000342: Could not obtain connection to query metadata : Cannot invoke "org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.poll()" because "this.pool" is null 
+[INFO] Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect 
+[INFO] LobCreatorBuilderImpl HHH000422: Disabling contextual LOB creation as connection was null 
+[WARN] SqlExceptionHelper SQL Error: 1044, SQLState: 42000 
+[ERROR] SqlExceptionHelper Access denied for user 'maria'@'%' to database 'animal' 
+[INFO] Version HHH000412: Hibernate Core {5.3.7.Final} 
+[INFO] Environment HHH000206: hibernate.properties not found 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[INFO] Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final} 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[INFO] pooling HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://db/animal?user=maria] 
+[INFO] pooling HHH10001001: Connection properties: {password=pass, user=maria} 
+[INFO] pooling HHH10001003: Autocommit mode: false 
+[INFO] DriverManagerConnectionProviderImpl HHH000115: Hibernate connection pool size: 3 (min=1) 
+[INFO] Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect 
+[INFO] pooling HHH10001008: Cleaning up connection pool [jdbc:mysql://db/animal?user=maria] 
+[INFO] Version HHH000412: Hibernate Core {5.3.7.Final} 
+[INFO] Environment HHH000206: hibernate.properties not found 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[INFO] Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final} 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[INFO] pooling HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://db/animal] 
+[INFO] pooling HHH10001001: Connection properties: {password=pass, user=maria} 
+[INFO] pooling HHH10001003: Autocommit mode: false 
+[INFO] DriverManagerConnectionProviderImpl HHH000115: Hibernate connection pool size: 3 (min=1) 
+[INFO] Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect 
+[INFO] pooling HHH10001008: Cleaning up connection pool [jdbc:mysql://db/animal] 
+[INFO] Version HHH000412: Hibernate Core {5.3.7.Final} 
+[INFO] Environment HHH000206: hibernate.properties not found 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[INFO] Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final} 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[INFO] pooling HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://db/animal] 
+[INFO] pooling HHH10001001: Connection properties: {password=pass, user=maria} 
+[INFO] pooling HHH10001003: Autocommit mode: false 
+[INFO] DriverManagerConnectionProviderImpl HHH000115: Hibernate connection pool size: 3 (min=1) 
+[INFO] Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect 
+[WARN] SessionFactoryOptionsBuilder Unrecognized hbm2ddl_auto value : drop-create.  Supported values include 'create', 'create-drop', 'update', 'none' and 'validate'.  Ignoring 
+[INFO] pooling HHH10001008: Cleaning up connection pool [jdbc:mysql://db/animal] 
+[INFO] Version HHH000412: Hibernate Core {5.3.7.Final} 
+[INFO] Environment HHH000206: hibernate.properties not found 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[INFO] Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final} 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[INFO] pooling HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://db/animal] 
+[INFO] pooling HHH10001001: Connection properties: {password=pass, user=maria} 
+[INFO] pooling HHH10001003: Autocommit mode: false 
+[INFO] DriverManagerConnectionProviderImpl HHH000115: Hibernate connection pool size: 3 (min=1) 
+[INFO] Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect 
+[INFO] pooling HHH10001008: Cleaning up connection pool [jdbc:mysql://db/animal] 
+[INFO] Version HHH000412: Hibernate Core {5.3.7.Final} 
+[INFO] Environment HHH000206: hibernate.properties not found 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[INFO] Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final} 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[INFO] pooling HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://db/animal] 
+[INFO] pooling HHH10001001: Connection properties: {password=pass, user=maria} 
+[INFO] pooling HHH10001003: Autocommit mode: false 
+[INFO] DriverManagerConnectionProviderImpl HHH000115: Hibernate connection pool size: 3 (min=1) 
+[INFO] Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect 
+[INFO] access HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@66227887] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode. 
+[INFO] access HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@51f5e2a6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode. 
+[INFO] SchemaCreatorImpl HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@bcf1503' 
+[INFO] SchemaDropperImpl$DelayedDropActionImpl HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down' 
+[INFO] access HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@688ce6db] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode. 
+[INFO] pooling HHH10001008: Cleaning up connection pool [jdbc:mysql://db/animal] 
+[INFO] Version HHH000412: Hibernate Core {5.3.7.Final} 
+[INFO] Environment HHH000206: hibernate.properties not found 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[INFO] Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final} 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[INFO] pooling HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://db/animal] 
+[INFO] pooling HHH10001001: Connection properties: {password=pass, user=maria} 
+[INFO] pooling HHH10001003: Autocommit mode: false 
+[INFO] DriverManagerConnectionProviderImpl HHH000115: Hibernate connection pool size: 3 (min=1) 
+[INFO] Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect 
+[INFO] access HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@201b2f9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode. 
+[INFO] access HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7f8ce284] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode. 
+[INFO] SchemaCreatorImpl HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@6d09dd82' 
+[INFO] SchemaDropperImpl$DelayedDropActionImpl HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down' 
+[INFO] access HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@40a21bb] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode. 
+[INFO] pooling HHH10001008: Cleaning up connection pool [jdbc:mysql://db/animal] 
+[INFO] Version HHH000412: Hibernate Core {5.3.7.Final} 
+[INFO] Environment HHH000206: hibernate.properties not found 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[INFO] Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final} 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[INFO] pooling HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://db/animal] 
+[INFO] pooling HHH10001001: Connection properties: {password=pass, user=maria} 
+[INFO] pooling HHH10001003: Autocommit mode: false 
+[INFO] DriverManagerConnectionProviderImpl HHH000115: Hibernate connection pool size: 3 (min=1) 
+[INFO] Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect 
+[INFO] access HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@21ba92f0] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode. 
+[INFO] access HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3d98a42b] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode. 
+[INFO] SchemaCreatorImpl HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@68077169' 
+[INFO] QueryTranslatorFactoryInitiator HHH000397: Using ASTQueryTranslatorFactory 
+[INFO] SchemaDropperImpl$DelayedDropActionImpl HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down' 
+[INFO] access HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5a231b3b] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode. 
+[INFO] Version HHH000412: Hibernate Core {5.3.7.Final} 
+[INFO] Environment HHH000206: hibernate.properties not found 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[INFO] Version HCANN000001: Hibernate Commons Annotations {5.0.4.Final} 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[INFO] pooling HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://db/animal] 
+[INFO] pooling HHH10001001: Connection properties: {password=pass, user=maria} 
+[INFO] pooling HHH10001003: Autocommit mode: false 
+[INFO] DriverManagerConnectionProviderImpl HHH000115: Hibernate connection pool size: 3 (min=1) 
+[INFO] Dialect HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect 
+[INFO] access HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@21ba92f0] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode. 
+[INFO] access HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@69dc4c1c] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode. 
+[INFO] SchemaCreatorImpl HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@12fc8429' 
+[INFO] QueryTranslatorFactoryInitiator HHH000397: Using ASTQueryTranslatorFactory 
+[INFO] SchemaDropperImpl$DelayedDropActionImpl HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down' 
+[INFO] access HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2995d981] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode. 

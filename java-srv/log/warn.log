@@ -1,0 +1,27 @@
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] JdbcEnvironmentInitiator HHH000342: Could not obtain connection to query metadata : Cannot invoke "org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.poll()" because "this.pool" is null 
+[WARN] SqlExceptionHelper SQL Error: 1044, SQLState: 42000 
+[ERROR] SqlExceptionHelper Access denied for user 'maria'@'%' to database 'animal' 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] JdbcEnvironmentInitiator HHH000342: Could not obtain connection to query metadata : Cannot invoke "org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.poll()" because "this.pool" is null 
+[WARN] SqlExceptionHelper SQL Error: 1044, SQLState: 42000 
+[ERROR] SqlExceptionHelper Access denied for user 'maria'@'%' to database 'animal' 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] SessionFactoryOptionsBuilder Unrecognized hbm2ddl_auto value : drop-create.  Supported values include 'create', 'create-drop', 'update', 'none' and 'validate'.  Ignoring 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
